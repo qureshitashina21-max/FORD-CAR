@@ -1,12 +1,12 @@
 # FORD-CAR
-# 🚗 Car Price Prediction using Machine Learning
+#  Car Price Prediction using Machine Learning
 
 This project predicts the selling price of cars based on specifications like model, year, mileage, fuel type, transmission, engine size, tax, and MPG.  
 The goal is to understand which features impact car prices and build a machine learning model that accurately estimates price.
 
 ---
 
-## 📌 Project Workflow
+##  Project Workflow
 
 ### 1️⃣ Data Loading & Cleaning
 - Removed missing values  
